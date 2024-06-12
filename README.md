@@ -1,7 +1,7 @@
 # Sunbase_Assignment
 
 ************************************************************* 1st Phase *************************************************************
-
+Each and every API end point is fully working. Tested using postman also.
 Backend APIs:-
 -Create a customer: To create a new customer there have an api . 
                     end point:- /customer/save 
